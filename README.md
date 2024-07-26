@@ -1,1 +1,1 @@
-# Hotel-Booking-System
+Developed a Hotel Management System using the Object Oriented Programming approach using C++, and File Handling to keep the data of old customers, checkins and reservations; to ensure reusability of the system, Room Reservations, Check-InsRoom allocation & pricingView, Reserved RoomsView,  Daily Report View, Time Left of a Customer etc.
